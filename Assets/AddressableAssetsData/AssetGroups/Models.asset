@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Models
+  m_EditorClassIdentifier: 
+  m_GroupName: Models
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1d09209c6e90b6d46924903a41ad054f
+  m_SerializeEntries:
+  - m_GUID: 4ab1636b433142044a7068a6fd27dc7d
+    m_Address: Assets/Addressable Assets/Items/Table.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  - m_GUID: 90acb993c060586478db9801592ce60a
+    m_Address: Assets/Addressable Assets/Items/Chair.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  - m_GUID: 6f260f9695abc1b49a9dc149185d57f7
+    m_Address: Assets/Addressable Assets/Items/Sofa.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  - m_GUID: efa16014b3cb15f418ef1f438e0a951b
+    m_Address: Assets/Addressable Assets/Items/Cabinet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9bdb06b29252c0d43938ee2426318e31, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0effe2c94658e394aadbb836a1e99b77, type: 2}
+    - {fileID: 11400000, guid: e5af0be3c2393cf42b042268c07c8d07, type: 2}
